@@ -1,0 +1,10 @@
+.idea
+/client/node_modules
+/client/.pnp
+/client/.pnp.js
+
+/coverage
+
+/build
+
+/node_modules
